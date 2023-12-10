@@ -1,3 +1,6 @@
+PROTECT - A Pipeline for Propaganda Detection and Classification
+(https://ceur-ws.org/Vol-3033/paper41.pdf)
+
 It is a website allowing the use of an AI which detects the different propaganda of an entered text.
 
 # Use the website on your pc
